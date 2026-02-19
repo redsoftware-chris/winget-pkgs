@@ -22,48 +22,48 @@ FileExtensions:
 Installers:
 - InstallerLocale: en-US
   Architecture: x64
-  InstallerUrl: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.7.1esr-bb18.en-US.win64.installer.exe
-  InstallerSha256: 7B6C6872A108D59E7178F085E29C668C060ACB115E4FD12DFA5B2539808D9DF0
+  InstallerUrl: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.7.1esr-bb18-new-cert2.en-US.win64.installer.exe
+  InstallerSha256: 911CA0CA0F2104EBA85F42837431D8203D0E9B92648D08B56C2A58E35F7D3598
   ProductCode: Betterbird 140.7.1 (x64 en-US)
 - InstallerLocale: de
   Architecture: x64
-  InstallerUrl: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.7.1esr-bb18.de.win64.installer.exe
-  InstallerSha256: CDD639F035C81EF4203375BC3370F266BE24EC5E79ACA60094B9B8AEE8998CD3
+  InstallerUrl: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.7.1esr-bb18-new-cert2.de.win64.installer.exe
+  InstallerSha256: D77A9A1DC73B0C4723573104AE9A0E19C18D224AD44797179C54593F2D672044
   ProductCode: Betterbird 140.7.1 (x64 de)
 - InstallerLocale: es-ES
   Architecture: x64
-  InstallerUrl: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.7.1esr-bb18.es-ES.win64.installer.exe
-  InstallerSha256: 1052ABB713F893F82D1D338A40F9B236C70B41C71DA0A7D0BB0F2024ACA33790
+  InstallerUrl: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.7.1esr-bb18-new-cert2.es-ES.win64.installer.exe
+  InstallerSha256: EA9FCF2084E35461C154BAE5BDABF7352224F9A72AAC6D79599BF06F666A5F0E
   ProductCode: Betterbird 140.7.1 (x64 es-ES)
 - InstallerLocale: fr
   Architecture: x64
-  InstallerUrl: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.7.1esr-bb18.fr.win64.installer.exe
-  InstallerSha256: 35064F6FE23A7AE3A29D9C43985C19877E1327DCA034DA6F894FDFE47C4C70E5
+  InstallerUrl: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.7.1esr-bb18-new-cert2.fr.win64.installer.exe
+  InstallerSha256: 2F9EC124E405FF7978367BDF68578F0D0041A1AB586DFDB01BBE5DD7690729CD
   ProductCode: Betterbird 140.7.1 (x64 fr)
 - InstallerLocale: it
   Architecture: x64
-  InstallerUrl: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.7.1esr-bb18.it.win64.installer.exe
-  InstallerSha256: 37F3B546820CB68D02853108466C7410E5F1D765749BC5FC8386218782BF532E
+  InstallerUrl: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.7.1esr-bb18-new-cert2.it.win64.installer.exe
+  InstallerSha256: 197AA0DF8D84DAB321F7E543F9001756F9E83D9BB9BAEDC2D29CCF85BA64AB84
   ProductCode: Betterbird 140.7.1 (x64 it)
 - InstallerLocale: ja
   Architecture: x64
-  InstallerUrl: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.7.1esr-bb18.ja.win64.installer.exe
-  InstallerSha256: ACCCECB6B08CA7523FD2452690239B0775679766EFE42C559F41605F1D502956
+  InstallerUrl: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.7.1esr-bb18-new-cert2.ja.win64.installer.exe
+  InstallerSha256: A0AA0B898B46B0D5B81B4AC68270FA7549798701AFE555C4D4E0BE15AFDCBF73
   ProductCode: Betterbird 140.7.1 (x64 ja)
 - InstallerLocale: nl
   Architecture: x64
-  InstallerUrl: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.7.1esr-bb18.nl.win64.installer.exe
-  InstallerSha256: 6200253F256BDF34C2D19C54CB4077CB53B2511F22B2D3132B204514C189B4E0
+  InstallerUrl: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.7.1esr-bb18-new-cert2.nl.win64.installer.exe
+  InstallerSha256: 1044D279AFAD9173C79796F2D7820006C66D9D5BB10F00C3D391E386306086F4
   ProductCode: Betterbird 140.7.1 (x64 nl)
 - InstallerLocale: pt-BR
   Architecture: x64
-  InstallerUrl: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.7.1esr-bb18.pt-BR.win64.installer.exe
-  InstallerSha256: 2738C96CAACB07ADA5486704D0700F7818C1FEFF8A0929B37D07D85D03B07D0B
+  InstallerUrl: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.7.1esr-bb18-new-cert2.pt-BR.win64.installer.exe
+  InstallerSha256: 235FEF36D146E9F2F7839D99326F0823B0785FC2264A50E84B89580DC5D0C506
   ProductCode: Betterbird 140.7.1 (x64 pt-BR)
 - InstallerLocale: ru
   Architecture: x64
-  InstallerUrl: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.7.1esr-bb18.ru.win64.installer.exe
-  InstallerSha256: AB0C83EC7EAF164BC2C13BAF4A9496F26DA65C52EF91EA3027749C4D634D7CA9
+  InstallerUrl: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.7.1esr-bb18-new-cert2.ru.win64.installer.exe
+  InstallerSha256: 56119090F846C8BF5542CAC8D2901D62D088FE258C089947D060565632C8311B
   ProductCode: Betterbird 140.7.1 (x64 ru)
 ManifestType: installer
 ManifestVersion: 1.12.0

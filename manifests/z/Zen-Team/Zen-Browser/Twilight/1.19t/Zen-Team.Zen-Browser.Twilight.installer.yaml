@@ -1,4 +1,4 @@
-# Created with komac v2.15.0
+# Created by Anthelion using komac v2.15.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
 
 PackageIdentifier: Zen-Team.Zen-Browser.Twilight
@@ -29,16 +29,16 @@ FileExtensions:
 - xht
 - xhtml
 ProductCode: Zen Twilight
-ReleaseDate: 2026-01-29
+ReleaseDate: 2026-02-18
 Installers:
 - Architecture: x64
   InstallerUrl: https://github.com/zen-browser/desktop/releases/download/twilight/zen.installer.exe
-  InstallerSha256: 1D5E2D8994E8D2C70468A5F4A9F5B1143813E92FCB4507A8938B150FD44A313E
+  InstallerSha256: E02C7B40F961DBBE6F1DFDB7F0B15A63E4C94450C17EFD58CC8FAB563E6AC316
   AppsAndFeaturesEntries:
   - DisplayName: Zen Twilight (x64 en-US)
 - Architecture: arm64
   InstallerUrl: https://github.com/zen-browser/desktop/releases/download/twilight/zen.installer-arm64.exe
-  InstallerSha256: 082949CE4118F912A31EE159246E24A3456AF5527E18C34F21B2B25F2A4345DF
+  InstallerSha256: 1FB0B66EDF58C2A8313C87005398198F2BF05F4CD6083598FAD20441544EAC04
   AppsAndFeaturesEntries:
   - DisplayName: Zen Twilight (AArch64 en-US)
 ManifestType: installer
